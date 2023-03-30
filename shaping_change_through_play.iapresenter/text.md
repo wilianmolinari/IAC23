@@ -104,3 +104,135 @@ size: contain
 /assets/Clipboard_9.png
 size: contain
 
+### Games helped us shape our culture pace layer
+
+/assets/layers_culture_ex.png
+size: contain
+
+- Our customisation of CAH as a retro & culture discovery method
+- Initially triggered by Andres Resminis workshop at Euro IA
+- Alternatives with less impact: posters, writing... 
+- High impact --> where else can we use this --> Random attempts that felt wrong. 
+- Reflection: We realise that CAH worked perfectly on the culture layer: Could our pace layers help?
+- After a few years of experimentation at DIFFERENT COMPANIES, we learned the following
+
+---
+### Games help us shaping each pace layer of our product individually
+
+/assets/layers.png
+size: contain
+
+- What are pace layers: layers that change at a different Pace and impact each other.
+- Our epilot pace layers from slow to fast 
+- building metaphore
+- Huge thanks to Jorge Arango --> Brands adaption 
+- Since we started at culture, first look at deep layers
+
+
+
+---
+### Our deep layers
+
+/assets/layers_deep.png
+size: contain
+
+- deep layers: stabilise our product and accelerate work that done on the layers above.
+- strategy layer, hard to get right for everyone
+- For shaping this other deep layer, strategy, we saw that an other game is super helpful: Fluxx
+
+---
+## Epilot customisation of Fluxxx
+	 #Strategy 
+
+/assets/PXL_20230112_183901607.jpg
+
+- define, strengthen, trial & communicate strategy
+- the situation: operationalising high level goals & how we get there
+- The approach: play, customise, discuss, repeat: Until we know how we win as a team
+- The photo: cross functional & cultural team in a epilot fluxxx card game customisation workshop.
+
+--- 
+### The original Fluxxx game
+/assets/fluxx original.png
+size: contain
+
+- What is fluxxx: Flux is a game where the rules and the conditions for winning are altered throughout the game, via cards played by the players. 
+- reach goals by collecting keepers (on on photo),  avoiding creepers & changing rules
+---
+### Fluxxx in action
+
+/assets/fluxxspacy_2.png
+size: contain
+
+- Draw 1 play 1 per player clockwise
+- Hand, keepers, creepers, goal, rules
+- How were we able to get to a more slid strategy everyone unerstands? 
+
+---
+#### Rules in our customisation
+/assets/rules_simple_export.png
+size: contain
+- parallel goals 
+- async work 
+
+---
+#### Keepers in our customisation
+/assets/keepers_simple_export.png
+size: contain
+
+- What do you do with them? Use them to fulfil certain goal
+- Collaboration experience vs. Simple sharing rules 
+- A Squad
+- quantities
+---
+#### Goals in our customisation
+/assets/goals_simple_export_1.png
+size: contain
+- digitised solar pannel installation
+- faster top task completion
+- reduce feature adoption time
+
+---
+#### Creepers in our customisation
+/assets/creepers_export.png
+size: contain
+
+- Waterfall mindset
+- Legacy Product feature
+- Naming convention
+---
+### "Games help people understand what words can't explain"
+	K.Weiss, 2022
+
+When I reflected this with my former boss Konstantin Weiß he said something that really resonated with me: "Games are great for helping people understand things that can't be explained"
+
+Culture is really that thing  
+--- 
+### Extending our approach to surface layers
+
+/assets/layers_surface.png
+size: contain
+
+So we saw two examples for games on the deep layers. 
+
+Using games on the surface layers works under a bit of a different paradigm:  Its way faster, games need to be smaller and address problems in quick easy way. As we were before on the deepest layer, we want to cover you now an example for a game on the most surface layer: the form.
+---
+Ofc we know that culture moves the slowest, so "immediate" results are nothing you can expect. But it's definitely helping in the long term. As we in the epilot design team aren't the most patient humans, we tried incorporating games & play into the design process of other pace layers as well,  
+
+### Design System Memory
+	 #Form
+
+/assets/Screenshot 2023-01-25 at 10.49.59.png
+
+- naming conventions in our design system
+- what makes it hard vs. Easy to play
+
+So you can totally copy all the three ideas we presented, but way more exciting: Make your own games
+---
+### Game customisation workshop
+
+Her's the format we recommend: 
+- spend as much time as you can plying: play play play
+- Prep
+- Workshop Time
+
