@@ -3,7 +3,7 @@
   "net.ia.presenter" : {
     "appearance" : "light",
     "preset" : "Default",
-    "template" : "san francisco"
+    "template" : "euroia2023_belian"
   },
   "transient" : false,
   "type" : "net.daringfireball.markdown",
