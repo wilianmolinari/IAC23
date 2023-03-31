@@ -1,6 +1,7 @@
 {
   "creatorIdentifier" : "net.ia.presenter",
   "net.ia.presenter" : {
+    "appearance" : "light",
     "preset" : "Default",
     "template" : "san francisco"
   },
